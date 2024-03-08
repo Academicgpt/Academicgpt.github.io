@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://academicgpt.github.io/posts/HOW_TO_UPGRADE_GPT4.html</loc>
+    <loc>https://academicgpt.github.io/posts/HOW_TO_SUBSCRIBE_ONYFANS.html</loc>
     
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://academicgpt.github.io/posts/Claude_3_VS_GPT4.html</loc>
+    <loc>https://academicgpt.github.io/posts/HOW_TO_USE_WILDCARD.html</loc>
     
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,34 @@
   <url>
     <loc>https://academicgpt.github.io/posts/search_multiple_keywords_from_multiple_texts_by_gpt.html</loc>
     
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://academicgpt.github.io/posts/Claude_3_VS_GPT4.html</loc>
+    
+    <lastmod>2024-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://academicgpt.github.io/posts/HOW_TO_UPGRADE_GPT4.html</loc>
+    
+    <lastmod>2024-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://academicgpt.github.io/link/index.html</loc>
+    
+    <lastmod>2024-03-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +58,7 @@
 
   <url>
     <loc>https://academicgpt.github.io/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,35 +66,42 @@
   
   <url>
     <loc>https://academicgpt.github.io/tags/GPT/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://academicgpt.github.io/tags/GPT4-0/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://academicgpt.github.io/tags/onlyfans/</loc>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://academicgpt.github.io/tags/Claude-3/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://academicgpt.github.io/tags/Search/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://academicgpt.github.io/tags/python/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -76,21 +110,28 @@
   
   <url>
     <loc>https://academicgpt.github.io/categories/GPT%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://academicgpt.github.io/categories/onlyfans/</loc>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://academicgpt.github.io/categories/Claude-3/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://academicgpt.github.io/categories/Claude-3/GPT4/</loc>
-    <lastmod>2024-03-05</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
